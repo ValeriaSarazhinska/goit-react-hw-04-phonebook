@@ -1,4 +1,4 @@
-import { Component, useState } from 'react';
+import { useState } from 'react';
 import css from './ContactForm.module.css';
 import PropTypes from 'prop-types';
 
